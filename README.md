@@ -1,2 +1,2 @@
 # viedo2char
-十六周演示用
+Python 十六周演示用
